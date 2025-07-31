@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Your Name]!
+# 👋 Hi there, I'm Suriya Prakash!
 
 I'm a passionate **web developer** specializing in:
 
@@ -20,26 +20,19 @@ I'm a passionate **web developer** specializing in:
 
 Here are a few repos I'm proud of:
 
-- 🔧 [Project Name](https://github.com/yourusername/project-name) — A React-based tool for [short description]
-- 🌟 [Another Cool Repo](https://github.com/yourusername/cool-repo) — JavaScript utility to [short description]
-- 📊 [Dashboard UI](https://github.com/yourusername/dashboard-ui) — A responsive admin dashboard with React and Tailwind CSS
+- 🔧 [JK Dry Fruits](https://github.com/suriya-a9/jk-dry-fruits.git) — A Next JS [Codebase for a wholesale dry fruits eCommerce platform, featuring product listings, customer accounts, and secure payment processing.]
+- 🌟 [Grace Associates](https://github.com/suriya-a9/Grace-Associates) — React Js project for [Grace Associate - Your trusted partner in statutory and compliance services since 2009. We offer high-quality paper bags through Grace Paper Bags and innovative cleaning solutions with Euro Clean Tech, ensuring a clean, healthy, and eco-friendly environment.]
+- 📊 [Personal project](https://github.com/suriya-a9/portfolio) — Portfolio Website | A personal portfolio built with React.js, JavaScript, and modern UI/UX principles. Showcases my projects, skills, and experience with a responsive and interactive design.
 
 ---
 
 ## 📈 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
----
-
-## 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=suriya-a9&show_icons=true&theme=radical)
 
 ---
 
 ## 📫 Connect With Me
 
-- 🌐 [Portfolio Website](https://yourwebsite.com) *(optional)*
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
-- 🐦 [Twitter/X](https://twitter.com/yourhandle) *(optional)*
+- 🌐 [Portfolio Website](suriya-a9.github.io/portfolio/) *(optional)*
+- 💼 [LinkedIn](https://suriya-a9.github.io/portfolio/)
