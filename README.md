@@ -28,14 +28,9 @@ Here are a few repos I'm proud of:
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suriya-a9&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suriya-a9&layout=compact&theme=tokyonight" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=suriya-a9&theme=tokyonight" />
-</p>
+![Suriya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=suriya-a9&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suriya-a9&layout=compact&theme=tokyonight)
+![trophy](https://github-profile-trophy.vercel.app/?username=suriya-a9&theme=tokyonight)
 
 ---
 
