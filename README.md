@@ -31,6 +31,7 @@ Here are a few repos I'm proud of:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=suriya-a9&show_icons=true&theme=tokyonight" alt="Suriya's GitHub Stats" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suriya-a9&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=suriya-a9&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
 </p>
 
 ---
