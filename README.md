@@ -34,7 +34,7 @@ Here are a few repos I'm proud of:
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=suriya-a9&theme=tokyonight&hide_border=false" />
+  <img src="[https://streak-stats.demolab.com?user=suriya-a9&theme=tokyonight&hide_border=false](https://camo.githubusercontent.com/06ad8307fcf14f836986b9c95b3e2a20c3ee78b45147dd4e64660e4654fe1eae/68747470733a2f2f73747265616b2d73746174732e64656d6f6c61622e636f6d3f757365723d7375726979612d6139267468656d653d746f6b796f6e6967687426686964655f626f726465723d66616c7365)" />
 </p>
 
 ---
