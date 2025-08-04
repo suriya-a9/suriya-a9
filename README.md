@@ -6,7 +6,7 @@ I'm a passionate **web developer** specializing in:
 - 📜 JavaScript (ES6+)
 - 🌐 Building intuitive and responsive web applications
 
-  ![Profile Views](https://komarev.com/ghpvc/?username=suriya-a9&style=flat-square&color=tokyonight)
+![Profile Views](https://komarev.com/ghpvc/?username=suriya-a9&style=flat-square&color=blue)
 
 ---
 
