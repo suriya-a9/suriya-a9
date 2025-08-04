@@ -6,7 +6,6 @@ I'm a passionate **web developer** specializing in:
 - 📜 JavaScript (ES6+)
 - 🌐 Building intuitive and responsive web applications
 
-![Profile Views](https://komarev.com/ghpvc/?username=suriya-a9&style=flat-square&color=blue)
 
 ---
 
@@ -27,7 +26,7 @@ Here are a few repos I'm proud of:
 - 📊 [Personal project](https://github.com/suriya-a9/portfolio) — Portfolio Website | A personal portfolio built with React.js, JavaScript, and modern UI/UX principles. Showcases my projects, skills, and experience with a responsive and interactive design.
 
 ---
-
+![Profile Views](https://komarev.com/ghpvc/?username=suriya-a9&style=flat-square&color=blue)
 ## 🏆 GitHub Trophies
 
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=suriya-a9&theme=tokyonight&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
