@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Suriya Prakash!
+# Hi, I'm Suriya Prakash!
 
 I'm a passionate **web developer** specializing in:
 
@@ -27,11 +27,11 @@ Here are a few repos I'm proud of:
 
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=suriya-a9&style=flat-square&color=blue)
-## 🏆 GitHub Trophies
+<!-- ## 🏆 GitHub Trophies-->
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=suriya-a9&theme=tokyonight&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=suriya-a9&theme=tokyonight&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)-->
 
----
+<!-- --- -->
 
 ## 📈 GitHub Stats
 
