@@ -1,4 +1,4 @@
-# ￼ Hi, I'm Suriya Prakash
+# ￼ Suriya Prakash
 
 I'm a dedicated **Web Developer** focused on creating modern, responsive, and user-friendly web applications.
 
