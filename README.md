@@ -44,7 +44,8 @@ Here are a few projects I'm proud of:
 
 ![Suriya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=suriya-a9&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suriya-a9&layout=compact&theme=tokyonight)
-<img src="https://streak-stats.demolab.com?user=suriya-a9&theme=tokyonight&hide_border=false" />
+
+<!-- <img src="https://streak-stats.demolab.com?user=suriya-a9&theme=tokyonight&hide_border=false" /> -->
 
 ![Profile Views](https://komarev.com/ghpvc/?username=suriya-a9&style=flat-square&color=blue)
 
