@@ -22,7 +22,7 @@ I specialize in:
 
 ---
 
-## 📌 Featured Projects
+<!-- ## 📌 Featured Projects
 
 Here are a few projects I'm proud of:
 
@@ -38,7 +38,7 @@ Here are a few projects I'm proud of:
   _Personal portfolio showcasing my work, skills, and experience._  
   Built with React.js, featuring a responsive, interactive design and clean UI/UX.
 
----
+--- -->
 
 ## 📈 GitHub Stats
 
