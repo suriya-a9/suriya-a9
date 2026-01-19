@@ -22,7 +22,7 @@ I specialize in:
 
 ---
 
-<!-- ## 📌 Featured Projects
+ ## 📌 Featured Projects
 
 Here are a few projects I'm proud of:
 
@@ -38,22 +38,22 @@ Here are a few projects I'm proud of:
   _Personal portfolio showcasing my work, skills, and experience._  
   Built with React.js, featuring a responsive, interactive design and clean UI/UX.
 
---- -->
+---
 
 ## 📈 GitHub Stats
 
 ![Suriya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=suriya-a9&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suriya-a9&layout=compact&theme=tokyonight)
 
-<!-- <img src="https://streak-stats.demolab.com?user=suriya-a9&theme=tokyonight&hide_border=false" /> -->
+<img src="https://streak-stats.demolab.com?user=suriya-a9&theme=tokyonight&hide_border=false" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=suriya-a9&style=flat-square&color=blue)
 
-<!-- ## 🏆 GitHub Trophies
+ ## 🏆 GitHub Trophies
 
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=suriya-a9&theme=tokyonight&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
---- -->
+---
 
 ---
 
