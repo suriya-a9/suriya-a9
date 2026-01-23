@@ -1,6 +1,6 @@
-# ￼ Suriya Prakash
+# 👨‍💻 Suriya Prakash
 
-I'm a dedicated **Web Developer** focused on creating modern, responsive, and user-friendly web applications.
+I’m a dedicated **MERN Stack Developer** who enjoys building modern, responsive, and user-friendly web applications that solve real problems.
 
 ---
 
@@ -8,35 +8,38 @@ I'm a dedicated **Web Developer** focused on creating modern, responsive, and us
 
 I specialize in:
 
-- ⚛️ **React.js** – Component-based, scalable frontend development
-- 📜 **JavaScript (ES6+)** – Clean, modern, and efficient scripting
-- 🌐 **UI/UX Design** – Building accessible and intuitive user experiences
+- ⚛️ **React.js** – Component-driven, scalable frontend development  
+- 🟢 **Node.js & Express.js** – Building fast, reliable backend APIs  
+- 🗄️ **MongoDB** – Designing flexible and efficient databases  
+- 📜 **JavaScript (ES6+)** – Clean, modern, and maintainable code  
+- 🎨 **UI/UX** – Creating intuitive, accessible user experiences  
 
 ---
 
 ## 🚀 About Me
 
-- 💼 I turn ideas into performant, real-world web solutions
-- 🧠 Passionate about clean code, performance, and accessibility
-- 📚 Always exploring new technologies and best practices in frontend development
+- 💼 Turning ideas into real-world, full-stack web applications  
+- 🧠 Passionate about clean code, performance, and scalability  
+- 📚 Constantly learning and improving across the MERN stack  
+- ❤️ Writing code with purpose, one MERN project at a time  
 
 ---
 
- ## 📌 Featured Projects
+## 📌 Featured Projects
 
-Here are a few projects I'm proud of:
+Here are a few projects I’m proud of:
 
 - 🔧 **[JK Dry Fruits](https://github.com/suriya-a9/jk-dry-fruits)**  
-  _A modern eCommerce platform for wholesale dry fruits, built with Next.js._  
-  Features product listings, customer accounts, and secure payment processing.
+  _A modern eCommerce platform for wholesale dry fruits._  
+  Built using **Next.js**, featuring product listings, customer accounts, and secure payment workflows.
 
 - 🌟 **[Grace Associates](https://github.com/suriya-a9/Grace-Associates)**  
-  _React-based business site for a leading compliance services provider._  
-  Combines product and service offerings across eco-friendly paper bags and hygiene solutions.
+  _Business website built with React for a compliance services provider._  
+  Showcases products and services with a clean UI and responsive design.
 
 - 📊 **[Portfolio Website](https://github.com/suriya-a9/portfolio)**  
-  _Personal portfolio showcasing my work, skills, and experience._  
-  Built with React.js, featuring a responsive, interactive design and clean UI/UX.
+  _Personal portfolio highlighting my projects and skills._  
+  Built with **React.js**, focusing on performance, responsiveness, and clean UI/UX.
 
 ---
 
@@ -45,15 +48,7 @@ Here are a few projects I'm proud of:
 ![Suriya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=suriya-a9&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suriya-a9&layout=compact&theme=tokyonight)
 
-<!-- <img src="https://streak-stats.demolab.com?user=suriya-a9&theme=tokyonight&hide_border=false" /> -->
-
 ![Profile Views](https://komarev.com/ghpvc/?username=suriya-a9&style=flat-square&color=blue)
-
- <!-- ## 🏆 GitHub Trophies
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=suriya-a9&theme=tokyonight&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
---- -->
 
 ---
 
