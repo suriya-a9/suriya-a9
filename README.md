@@ -45,8 +45,9 @@ Here are a few projects I’m proud of:
 
 ## 📈 GitHub Stats
 
-![Suriya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=suriya-a9&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suriya-a9&layout=compact&theme=tokyonight)
+![Suriya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=suriya-a9&show_icons=true&theme=tokyonight&cache_seconds=1800)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suriya-a9&layout=compact&theme=tokyonight&cache_seconds=1800)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=suriya-a9&style=flat-square&color=blue)
 
