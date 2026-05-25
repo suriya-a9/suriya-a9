@@ -55,9 +55,24 @@ Here are a few projects I’m proud of:
 
 ---
 
+## 🛠️ Tech Stack
+
+### 🚀 Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,nextjs,js,html,css,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,js,tailwind" />
 </p>
+
+### ⚙️ Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+### 🔧 Tools & Platforms
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify" />
+</p>
+
+---
 
 ## 📫 Get in Touch
 
