@@ -59,7 +59,7 @@ Here are a few projects I’m proud of:
 
 ### 🚀 Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,js,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,html,css,js,tailwind" />
 </p>
 
 ### ⚙️ Backend
