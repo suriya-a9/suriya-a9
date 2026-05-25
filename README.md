@@ -43,15 +43,13 @@ Here are a few projects I’m proud of:
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Activity
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=suriya-a9&theme=tokyonight)
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=suriya-a9&theme=tokyonight&row=1&column=6)
-
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=suriya-a9&theme=tokyo-night)
 
-![Snake animation](https://raw.githubusercontent.com/suriya-a9/suriya-a9/output/github-contribution-grid-snake.svg)
+![Trophy](https://github-profile-trophy.vercel.app/?username=suriya-a9&theme=tokyonight&row=1&column=6)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=suriya-a9&style=flat-square&color=blue)
 
