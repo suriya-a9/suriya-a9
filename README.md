@@ -45,11 +45,8 @@ Here are a few projects I’m proud of:
 
 ## 📊 GitHub Activity
 
-![GitHub Streak](https://streak-stats.demolab.com?user=suriya-a9&theme=tokyonight)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=suriya-a9&theme=tokyo-night)
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=suriya-a9&theme=tokyonight&row=1&column=6)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=suriya-a9&style=flat-square&color=blue)
 
@@ -69,7 +66,7 @@ Here are a few projects I’m proud of:
 
 ### 🔧 Tools & Platforms
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 ---
