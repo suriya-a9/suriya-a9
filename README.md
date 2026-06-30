@@ -29,14 +29,6 @@ I specialize in:
 
 Here are a few projects I’m proud of:
 
-- 🔧 **[JK Dry Fruits](https://github.com/suriya-a9/jk-dry-fruits)**  
-  _A modern eCommerce platform for wholesale dry fruits._  
-  Built using **Next.js**, featuring product listings, customer accounts, and secure payment workflows.
-
-- 🌟 **[Grace Associates](https://github.com/suriya-a9/Grace-Associates)**  
-  _Business website built with React for a compliance services provider._  
-  Showcases products and services with a clean UI and responsive design.
-
 - 📊 **[Portfolio Website](https://github.com/suriya-a9/portfolio)**  
   _Personal portfolio highlighting my projects and skills._  
   Built with **React.js**, focusing on performance, responsiveness, and clean UI/UX.
