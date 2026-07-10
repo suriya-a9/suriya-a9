@@ -1,6 +1,6 @@
 # 👨‍💻 Suriya Prakash
 
-I’m a dedicated **MERN Stack Developer** who enjoys building modern, responsive, and user-friendly web applications that solve real problems.
+I’m a dedicated **MERN Stack Developer** with 3 years of experience who enjoys building modern, responsive, and user-friendly web applications that solve real problems.
 
 ---
 
